@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Gerard MANZI
+## Hi there 👋, I'm Gerard
 
 - 👯 I’m looking to collaborate on open source fullstack projects.
 - 🚀 I’m interested in gaining proficiency in DevOps practices, including CI/CD, Docker and Kubernetes
